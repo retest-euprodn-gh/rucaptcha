@@ -1,4 +1,4 @@
-# RuCaptcha
+# RuCaptcha =- check12 EU
 
 [![Gem Version](https://badge.fury.io/rb/rucaptcha.svg)](https://badge.fury.io/rb/rucaptcha)
 [![build](https://github.com/huacnlee/rucaptcha/workflows/build/badge.svg)](https://github.com/huacnlee/rucaptcha/actions?query=workflow%3Abuild)
